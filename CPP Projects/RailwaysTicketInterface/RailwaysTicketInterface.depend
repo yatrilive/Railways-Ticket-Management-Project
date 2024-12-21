@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714655745 source:c:\users\iindi\onedrive\desktop\cpp projects\railwaysticketinterface\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
